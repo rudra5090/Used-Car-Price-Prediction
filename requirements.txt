@@ -1,0 +1,13 @@
+# Used Car Price Prediction — dependencies
+# Notebook
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+catboost
+ipywidgets
+
+# Streamlit UI
+streamlit
